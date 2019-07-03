@@ -1,3 +1,1 @@
-# project_online-event-management
-Web programming, also known as web development, is the creation of dynamic web applications. There are two broad divisions of web development – front-end development (also called client-side development) and back-end development (also called server-side development). Front-end development refers to build the user interface as per the requirements.
-Online Event management system is an online management system software that provides service for the different events for the users, by allowing the users to select an event type and provide all the requirements for the particular events. This data will be processed at the admin end and provides required service for the users.
+# sambrhams
